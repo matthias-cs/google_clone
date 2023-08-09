@@ -8,7 +8,7 @@ Google Clone is a web application that replicates the functionality and aestheti
 
 ## Screenshots
 
-![Google Search](https://link-to-google-search-screenshot.png)
+![Google Search](https://1drv.ms/i/s!Aqlez3rANU6AgT-wiD8gzfaDqKpB?e=x9Adxw)
 
 ![Google Image Search](https://link-to-google-image-search-screenshot.png)
 
@@ -46,7 +46,7 @@ Google Clone is a web application that replicates the functionality and aestheti
 ## Deployment
 
 The Google Clone project is deployed and accessible at the following link: 
-[Google Clone Demo](https://your-deployed-link.com)
+[Google Clone Demo](https://www.google.clone.matthiasmesfin.com/)
 
 ## Technologies Used
 
