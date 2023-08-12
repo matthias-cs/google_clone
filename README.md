@@ -1,6 +1,6 @@
 # Google Clone
 
-![Google Clone](https://link-to-your-image.png)
+![Google Clone](https://matthiasmesfin.com/Screenshots/EDX_Project_0/Screenshot_project_0_home_page.png)
 
 ## Description
 
@@ -8,11 +8,9 @@ Google Clone is a web application that replicates the functionality and aestheti
 
 ## Screenshots
 
-![Google Search](https://1drv.ms/i/s!Aqlez3rANU6AgT-wiD8gzfaDqKpB?e=x9Adxw)
+![Google Advanced Search](https://matthiasmesfin.com/Screenshots/EDX_Project_0/Screenshot_project_0_advanced_search_page.png)
 
-![Google Image Search](https://link-to-google-image-search-screenshot.png)
-
-![Google Advanced Search](https://link-to-google-advanced-search-screenshot.png)
+![Google Image Search](https://matthiasmesfin.com/Screenshots/EDX_Project_0/Screenshot_project_0_image_search_page.png)
 
 ## Features
 
@@ -47,7 +45,7 @@ Google Clone is a web application that replicates the functionality and aestheti
 
 The Google Clone project is deployed and accessible at the following link: 
 [Google Clone Demo](https://www.google.clone.matthiasmesfin.com/)
-
+https://www.google.clone.matthiasmesfin.com
 ## Technologies Used
 
 - HTML
